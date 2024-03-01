@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "C:\\Users\\Saiyan",
+  "password": false,
+  "pid": 6100,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "806c7fd4ad5fe7216641e03145e6d83f2cfcf62b088ca8da",
+  "url": "http://localhost:8888/"
+}
